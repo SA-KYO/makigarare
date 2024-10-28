@@ -178,7 +178,7 @@ h1 {
     font-size: 3.5vw;
 }
 
-/* *,
+*,
 *:before,
 *:after {
   -webkit-box-sizing: inherit;
@@ -284,7 +284,7 @@ a.btn-border-gradient {
   -webkit-background-clip: text;
 
   -webkit-text-fill-color: transparent;
-} */
+}
 
 @media screen and (min-width:480px) {
     /*　画面サイズが480pxからはここを読み込む　*/
