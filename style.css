@@ -66,6 +66,7 @@
     letter-spacing: 0.025em;
     top: 60%;
     bottom: auto;
+    font-size: 5vw;
 }
 .expiry, .name {
     top: auto;
